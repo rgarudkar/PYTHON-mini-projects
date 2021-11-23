@@ -1,0 +1,1 @@
+In the above code, I am first reading a text file from my computer, then I am splitting all the words and storing them into a Python list. Then I am counting the frequency of all the words in the list by using the Counter method of the collection module in Python. In the end, I am printing the top 5 most frequent words in the file.
